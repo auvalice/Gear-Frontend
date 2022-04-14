@@ -1,0 +1,6 @@
+app:
+  description: BrackeysBot plugin configuration utility
+not-found: Not found
+nav:
+  home: Home
+  toggle-theme: Toggle theme
